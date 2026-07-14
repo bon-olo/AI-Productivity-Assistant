@@ -16,4 +16,4 @@ This project is an AI-Powered workplace productivity assistant designed to help 
 
 -ChatGPT
 ## Author 
-Bonolo
+Bonolo Masibi
